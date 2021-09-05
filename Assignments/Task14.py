@@ -1,7 +1,7 @@
 import mysql.connector
 
 # Connect to host
-mydb = mysql.connector.connect(host="localhost", user="main", password="5GL60GkAD(Szl.zV")
+mydb = mysql.connector.connect(host="localhost", user="main", password="")
 print(mydb)
 
 # Creating cursor
